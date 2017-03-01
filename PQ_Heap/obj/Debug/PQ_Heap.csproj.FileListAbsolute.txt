@@ -1,0 +1,6 @@
+c:\users\farida adham\documents\visual studio 2015\Projects\PQ_Heap\PQ_Heap\bin\Debug\PQ_Heap.exe.config
+c:\users\farida adham\documents\visual studio 2015\Projects\PQ_Heap\PQ_Heap\obj\Debug\PQ_Heap.csprojResolveAssemblyReference.cache
+c:\users\farida adham\documents\visual studio 2015\Projects\PQ_Heap\PQ_Heap\bin\Debug\PQ_Heap.exe
+c:\users\farida adham\documents\visual studio 2015\Projects\PQ_Heap\PQ_Heap\bin\Debug\PQ_Heap.pdb
+c:\users\farida adham\documents\visual studio 2015\Projects\PQ_Heap\PQ_Heap\obj\Debug\PQ_Heap.exe
+c:\users\farida adham\documents\visual studio 2015\Projects\PQ_Heap\PQ_Heap\obj\Debug\PQ_Heap.pdb
